@@ -9,6 +9,11 @@ Adventure Works requires an analysis of quarterly sales, profit margins, and yea
 ```
 
 ```
+#Data Model
+```
+
+
+```
 # DAX Query
 Total Sales = SUM(Sales[Total Sales])
 Quantity Sold = SUM(Sales[Quantity])
